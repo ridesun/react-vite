@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .wkit-button {
+    @apply btn btn-ghost w-24;
+  }
+}
