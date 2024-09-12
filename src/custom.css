@@ -4,6 +4,6 @@
 
 @layer components {
   .wkit-button {
-    @apply btn btn-ghost w-24;
+    @apply  w-fit h-fit;
   }
 }
